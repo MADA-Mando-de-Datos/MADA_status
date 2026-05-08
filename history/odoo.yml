@@ -1,7 +1,7 @@
 url: https://0gerardo0.engineer/web/login
-status: up
-code: 200
-responseTime: 8222
-lastUpdated: 2026-05-08T02:33:38.139Z
+status: down
+code: 502
+responseTime: 83
+lastUpdated: 2026-05-08T03:02:10.387Z
 startTime: 2026-05-08T01:49:25.880Z
 generator: Upptime <https://github.com/upptime/upptime>
