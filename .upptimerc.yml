@@ -1,5 +1,6 @@
-owner: 0gerardo0
-repo: mada-status
+owner: MADA-Mando-de-Datos
+repo: MADA_status
+
 sites:
   - name: Odoo ERP
     url: https://0gerardo0.engineer/web/login
