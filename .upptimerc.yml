@@ -6,8 +6,8 @@ sites:
     url: https://0gerardo0.engineer/web/login
     headers:
       - "x-mada-monitor-auth: $MADA_WAF"
-  - name: Nextcloud (TEST ALERT)
-    url: https://cloud.0gerardo0.engineer/error_forzado_para_test
+  - name: Nextcloud
+    url: https://cloud.0gerardo0.engineer/index.php/204
     headers:
       - "x-mada-monitor-auth: $MADA_WAF"
 status-website:
