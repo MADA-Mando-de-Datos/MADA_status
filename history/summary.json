@@ -4,19 +4,19 @@
     "url": "https://0gerardo0.engineer/web/login",
     "icon": "https://icons.duckduckgo.com/ip3/0gerardo0.engineer.ico",
     "slug": "odoo",
-    "status": "down",
-    "uptime": "97.16%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "97.16%",
-    "time": 1877,
-    "timeDay": 1877,
-    "timeWeek": 1877,
-    "timeMonth": 1877,
-    "timeYear": 1877,
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 3251,
+    "timeDay": 3251,
+    "timeWeek": 3251,
+    "timeMonth": 3251,
+    "timeYear": 3251,
     "dailyMinutesDown": {
-      "2026-05-08": 2
+      "2026-05-08": 1
     }
   },
   {
