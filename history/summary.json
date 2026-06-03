@@ -5,21 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/0gerardo0.engineer.ico",
     "slug": "odoo",
     "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "96.10%",
-    "time": 3367,
-    "timeDay": 10264,
-    "timeWeek": 2935,
-    "timeMonth": 3367,
-    "timeYear": 3367,
+    "uptime": "95.47%",
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "95.47%",
+    "time": 3784,
+    "timeDay": 19692,
+    "timeWeek": 5347,
+    "timeMonth": 3784,
+    "timeYear": 3784,
     "dailyMinutesDown": {
       "2026-05-11": 353,
       "2026-05-10": 1033,
       "2026-05-21": 66,
-      "2026-06-02": 1
+      "2026-06-03": 157,
+      "2026-06-02": 88
     }
   },
   {
@@ -28,21 +29,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.0gerardo0.engineer.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "96.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "96.11%",
-    "time": 2935,
-    "timeDay": 9836,
-    "timeWeek": 2831,
-    "timeMonth": 2935,
-    "timeYear": 2935,
+    "uptime": "95.48%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "95.48%",
+    "uptimeYear": "95.48%",
+    "time": 3455,
+    "timeDay": 19467,
+    "timeWeek": 5206,
+    "timeMonth": 3455,
+    "timeYear": 3455,
     "dailyMinutesDown": {
       "2026-05-11": 353,
       "2026-05-10": 1031,
       "2026-05-21": 65,
-      "2026-06-02": 0
+      "2026-06-03": 157,
+      "2026-06-02": 86
     }
   }
 ]
