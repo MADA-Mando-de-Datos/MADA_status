@@ -2,23 +2,25 @@ owner: MADA-Mando-de-Datos
 repo: MADA_status
 
 sites:
-  - name: Odoo
-    url: https://0gerardo0.engineer/web/login
+  - name: MADA Core (Odoo ERP)
+    url: https://madamexico.me
     headers:
       - "x-mada-monitor-auth: $MADA_WAF"
-  - name: Nextcloud
+  - name: MADA Cloud (Nextcloud)
     url: https://cloud.0gerardo0.engineer/index.php/204
     headers:
       - "x-mada-monitor-auth: $MADA_WAF"
+
 status-website:
   cname: status.0gerardo0.engineer
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Estado del Sistema MADA
   introTitle: "Monitoreo en tiempo real de nuestra infraestructura."
-  introMessage: "Aquí puedes verificar el estado de los servidores de Odoo y Nextcloud."
+  introMessage: "Aquí puedes verificar el estado operativo de los servicios de MADA (ERP y Cloud)."
   introText: "Sistemas operativos 24/7."
   navbar:
     - title: Status
       href: /
+    - title: Sitio Web
+      href: https://madamexico.me
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
