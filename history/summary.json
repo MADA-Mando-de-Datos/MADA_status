@@ -4,35 +4,39 @@
     "url": "https://madamexico.me",
     "icon": "https://icons.duckduckgo.com/ip3/madamexico.me.ico",
     "slug": "mada-core-odoo-erp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 490,
-    "timeWeek": 595,
-    "timeMonth": 654,
-    "timeYear": 834,
-    "dailyMinutesDown": {}
+    "time": 1142,
+    "timeDay": 10063,
+    "timeWeek": 2975,
+    "timeMonth": 1247,
+    "timeYear": 1142,
+    "dailyMinutesDown": {
+      "2026-11-03": 1
+    }
   },
   {
     "name": "MADA Cloud (Nextcloud)",
     "url": "https://cloud.0gerardo0.engineer/index.php/204",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.0gerardo0.engineer.ico",
     "slug": "mada-cloud-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 457,
-    "timeWeek": 553,
-    "timeMonth": 561,
-    "timeYear": 557,
-    "dailyMinutesDown": {}
+    "time": 864,
+    "timeDay": 10030,
+    "timeWeek": 2934,
+    "timeMonth": 1156,
+    "timeYear": 864,
+    "dailyMinutesDown": {
+      "2026-11-03": 0
+    }
   }
 ]
